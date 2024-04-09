@@ -1,8 +1,6 @@
 ---
 title: "Graphing in Matplotlib using Python"
 date: 2024-03-07T15:34:30-04:00
-categories:
-  - blog
 ---
 
 Here you can find a project I completed where I graphed FECO2 and V̇CO2 over V̇O2. Below is the finished graph as well as the code
