@@ -78,10 +78,10 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/RyanMcRae44"
+      url: "https://github.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/rryan39/"
+      url: "https://www.instagram.com"
 
 defaults:
   # _posts
