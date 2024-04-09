@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ryan McRae"
   avatar : "/assets/images/Capture.PNG"
-  bio    : "BSc Kinesiology Student at the Univeristy of Calgary."
+  bio    : "BSc Kinesiology student at the Univeristy of Calgary."
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
