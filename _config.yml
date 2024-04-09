@@ -24,6 +24,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: air
 search: true
+teaser: /assets/images/500x300.png
 
 # Build settings
 markdown: kramdown
