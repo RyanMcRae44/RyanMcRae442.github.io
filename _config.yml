@@ -60,14 +60,14 @@ plugins:
 author:
   name   : "Ryan McRae"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "BSc Kinesiology Student at the Univeristy of Calgary, RA for Pediatric Emergency Medicine Research Associates Program at the Alberta Children's Hospital, Lifegaurd for City of Calgary Recreation"
+  bio    : "BSc Kinesiology Student at the Univeristy of Calgary, RA for Pediatric Emergency Medicine Research Associates Program at the Alberta Children's Hospital, Lifeguard for City of Calgary Recreation"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/RyanMcRae44"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/rryan39/"
