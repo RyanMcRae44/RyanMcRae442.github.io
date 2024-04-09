@@ -7,4 +7,4 @@ I am a BSc Kinesiology Student at the Univeristy of Calgary. In addition, I am a
 In my free time I compete in track and field for the Univeristy of Calgary Athletics Club in sprints and jumps.
 I am also the Dinos Rowing team record holder for the lightweight mens peak power and 1 minute erg tests.
 
-![Alt text](/RyansSite/assets/images/Capture3.PNG "a title")
+![Alt text](/RyansSite/assets/images/Capture3.PNG "title")
