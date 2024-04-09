@@ -60,9 +60,7 @@ plugins:
 author:
   name   : "Ryan McRae"
   avatar : "/assets/images/Capture.PNG"
-  bio    : "Lifeguard for City of Calgary Recreation"
-  bio2   : "BSc Kinesiology Student at the Univeristy of Calgary"
-  bio3   : "RA for Pediatric Emergency Medicine Research Associates Program at the Alberta Children's Hospital"
+  bio    : "I am BSc Kinesiology Student at the Univeristy of Calgary. In addition I am an RA for the Pediatric Emergency Medicine Research Associates Program at the Alberta Children's Hospital. I also work as a lifeguard for the City of Calgary Recreation."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
