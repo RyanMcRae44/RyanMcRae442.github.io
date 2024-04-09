@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: RM
+title: Ryan McRae
 email: ryan.mcrae@ucalgary.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ryan McRae"
   avatar : "/assets/images/Capture.PNG"
-  bio    : "I am BSc Kinesiology Student at the Univeristy of Calgary. In addition I am an RA for the Pediatric Emergency Medicine Research Associates Program at the Alberta Children's Hospital. I also work as a lifeguard for the City of Calgary Recreation."
+  bio    : "I am BSc Kinesiology Student at the Univeristy of Calgary. In addition, I am an RA for the Pediatric Emergency Medicine Research Associates Program at the Alberta Children's Hospital. I also work as a lifeguard for the City of Calgary Recreation."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
