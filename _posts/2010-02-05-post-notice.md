@@ -1,6 +1,8 @@
 ---
 title: "Dartfish Video Analysis"
 date: 2024-04-09T15:34:30-04:00
+header:
+  teaser: /assets/images/dartfish.png
 ---
 Below are some examples of videos that I analzyed and marked up using Dartfish.
 
